@@ -6,13 +6,13 @@ const BLOCK_SIZE = 24;
 const LINES_PER_LEVEL = 10;
 const COLORS = [
   'none',
-  'cyan',
-  'blue',
+  'deepskyblue',
+  'dodgerblue',
   'orange',
-  'yellow',
-  'green',
-  'purple',
-  'red'
+  'gold',
+  'forestgreen',
+  'darkorchid',
+  'firebrick'
 ];
 Object.freeze(COLORS);
 
