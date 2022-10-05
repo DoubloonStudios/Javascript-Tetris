@@ -36,3 +36,10 @@
   padding: 15px 30px;
   cursor: pointer;
 }
+
+.instructions {
+  color:white;
+  background-color: black;
+  font-family: 'DM Sans', cursive;
+  font-size: 8px;
+}
