@@ -15,11 +15,10 @@
   background-color: black;
   color:white;
   display: grid;
-  grid-template-columns: 480px 200px;
+  grid-template-columns: 320px 200px;
 }
 
 .right-column {
-  width: 640px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
